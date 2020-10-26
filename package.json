@@ -6,8 +6,9 @@
     "git-add-and-commit": "git add . && git commit -m 'update'",
     "git-branch-main": "git branch main",
     "git-checkout-main": "git checkout main",
-    "first": "npm run git-init && npm run git-add-and-commit && npm run git-branch-main && npm run git-checkout-main",
+    "first-commit": "npm run git-init && npm run git-add-and-commit && npm run git-branch-main && npm run git-checkout-main",
     "git-push-main": "git push origin main --force",
+    "first-push": "npm run first-commit && npm run git-push-main",
     "second": "npm run git-add-and-commit && npm run git-push-main"
   }
 }
