@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jPTZogpamrJFM6nBhP1DPMPdt1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -19,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -26,12 +31,45 @@
       <recent name="C:\___Code\WebstormProjects\learn_css" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.second">
     <configuration name="01.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn_css/01/01.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="first" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="first" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="git-push-main" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="git-push-main" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="second" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="second" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.second" />
+        <item itemvalue="npm.git-push-main" />
+        <item itemvalue="npm.first" />
         <item itemvalue="JavaScript Debug.01.html" />
       </list>
     </recent_temporary>
@@ -46,11 +84,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603704784767</updated>
-      <workItem from="1603704786112" duration="885000" />
+      <workItem from="1603704786112" duration="1287000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1480" height="259" key="GridCell.Tab.0.bottom" timestamp="1603706068250">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state width="1480" height="259" key="GridCell.Tab.0.bottom/0.30.1500.970@0.30.1500.970" timestamp="1603706068250" />
+    <state width="1480" height="259" key="GridCell.Tab.0.center" timestamp="1603706068250">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state width="1480" height="259" key="GridCell.Tab.0.center/0.30.1500.970@0.30.1500.970" timestamp="1603706068250" />
+    <state width="1480" height="259" key="GridCell.Tab.0.left" timestamp="1603706068249">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state width="1480" height="259" key="GridCell.Tab.0.left/0.30.1500.970@0.30.1500.970" timestamp="1603706068249" />
+    <state width="1480" height="259" key="GridCell.Tab.0.right" timestamp="1603706068250">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state width="1480" height="259" key="GridCell.Tab.0.right/0.30.1500.970@0.30.1500.970" timestamp="1603706068250" />
   </component>
 </project>
