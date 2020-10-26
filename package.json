@@ -1,0 +1,13 @@
+{
+  "name": "learn_css",
+  "homepage": "https://github.com/VacantThinker/learn_css.git",
+  "scripts": {
+    "git-init": "git init && git remote add origin %npm_package_homepage%",
+    "git-add-and-commit": "git add . && git commit -m 'update'",
+    "git-branch-main": "git branch main",
+    "git-checkout-main": "git checkout main",
+    "first": "npm run git-init && npm run git-add-and-commit && npm run git-branch-main && npm run git-checkout-main",
+    "git-push-main": "git push origin main --force",
+    "second": "npm run git-add-and-commit && npm run git-push-main"
+  }
+}
